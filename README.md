@@ -1,7 +1,8 @@
 # project6-Rims
 
- ![Screenshot 2024-10-25 210908](https://github.com/user-attachments/assets/f5fd4431-f477-4adb-8041-6c59689e4831)
-![Screenshot 2024-10-25 210942](https://github.com/user-attachments/assets/35481ec5-88d4-468b-ba95-8a952aaf4adf)
+![Screenshot 2024-10-25 210908](https://github.com/user-attachments/assets/7529e832-df7b-4363-a68c-71939e1b9da0)
+
+![Screenshot 2024-10-25 210942](https://github.com/user-attachments/assets/927f0769-67bc-4ed2-a7c1-fc4fd9553c97)
 
 - [Demo Project]( https://mohadsezare-web.github.io/projecr6-Rims/)
 
